@@ -68,3 +68,10 @@ Scalability: Modular design allows easy scaling of specialized models and tools.
 Efficiency: Fine-tuned smaller models optimize resource usage while maintaining accuracy.
 Real-Time Execution: Enables dynamic market monitoring, analysis, and decision-making.
 Compliance-Driven: Integrates robust compliance tools for regulatory adherence.
+
+## requirements.txt
+transformers==4.25.1
+numpy==1.24.0
+pandas==1.5.2
+requests==2.28.1
+
