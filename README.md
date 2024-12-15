@@ -1,5 +1,5 @@
 # GCMP_2024A
-## Global Capital Markets Platform (GCMP)
+## Crypto-DeFi Global Capital Markets Platform (GCMP)
 Overview
 The Global Capital Markets Platform (GCMP) is an AI-driven multi-agent system designed to streamline and optimize processes across global financial markets. The platform leverages a central controller LLM (LLaMA 3.3 70B) and specialized smaller fine-tuned models to execute specific tasks, such as risk assessment, trade execution, compliance monitoring, and market data analysis.
 
